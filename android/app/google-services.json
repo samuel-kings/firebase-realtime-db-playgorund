@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "720695107104",
+    "firebase_url": "https://general-projects-e6f28-default-rtdb.firebaseio.com",
+    "project_id": "general-projects-e6f28",
+    "storage_bucket": "general-projects-e6f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720695107104:android:4e230f6d2012582bbce645",
+        "android_client_info": {
+          "package_name": "com.example.fb_rtdb_pg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720695107104-rva37n10pl4krf6nkjil4qu20oebffcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5O_QiEhBQAeefLQIC29HnbXV6YJfB5PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720695107104-rva37n10pl4krf6nkjil4qu20oebffcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720695107104:android:0f128469ae79d55dbce645",
+        "android_client_info": {
+          "package_name": "com.lds.onesignalplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720695107104-rva37n10pl4krf6nkjil4qu20oebffcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5O_QiEhBQAeefLQIC29HnbXV6YJfB5PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720695107104-rva37n10pl4krf6nkjil4qu20oebffcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
